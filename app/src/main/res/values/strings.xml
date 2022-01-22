@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">MHDamageCalculator</string>
+    <string name="inflated_hint">Attack</string>
+    <string name="attack">Attack:</string>
+    <string name="true_raw">True raw:</string>
+
+    <string-array name="weapon_names">
+        <item>Great Sword</item>
+        <item>Long Sword</item>
+        <item>Sword and Shield</item>
+        <item>Dual Blades</item>
+        <item>Hammer</item>
+        <item>Hunting Horn</item>
+        <item>Lance</item>
+        <item>Gunlance</item>
+        <item>Switch Axe</item>
+        <item>Charge Blade</item>
+        <item>Insect Glaive</item>
+        <item>Light Bowgun</item>
+        <item>Heavy Bowgun</item>
+        <item>Bow</item>
+    </string-array>
 
 </resources>
