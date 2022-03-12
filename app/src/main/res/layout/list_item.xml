@@ -22,7 +22,6 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Inflated: Sample0"
-        android:textColor="@color/black"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
